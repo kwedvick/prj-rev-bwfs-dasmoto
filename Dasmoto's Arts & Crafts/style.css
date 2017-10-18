@@ -2,7 +2,7 @@ body {
   font-family: Helvetica;
 }
 h1 {
-  background-image: url("/Users/katiewedvick/Documents/projects/Dasmoto's Arts & Crafts/resources/css/pattern.jpeg");
+  background-image: url("./resources/css/pattern.jpeg");
   text-align: center;
   font-size: 100px;
   font-weight: bold;
@@ -22,7 +22,7 @@ h2 {
 #paint {
   background-color: skyblue;
 }
-.prices {
+#prices {
   font-weight: bold;
   color: blue;
 }
